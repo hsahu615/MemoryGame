@@ -1,12 +1,17 @@
 .cards {
-  background-color: rgba(0, 0, 0, 0.6);
   height: 700px;
   width: 1000px;
   display: flex;
   gap: 2%;
   justify-content: center;
   flex-wrap: wrap;
+  opacity: 0.05;
   margin: 20px auto;
+  transition: all 600ms ease-out;
+}
+
+.cards:hover {
+  opacity: 1;
 }
 
 .card {
