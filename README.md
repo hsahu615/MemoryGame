@@ -1,4 +1,4 @@
-# GOT Memory Card Game
+# GOT Memory Game
 
 Rule: Don't select the image which is already clicked otherwise you will fall back to 0 Score
 
